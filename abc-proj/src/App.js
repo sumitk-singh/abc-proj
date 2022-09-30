@@ -1,11 +1,11 @@
 
 import './App.css';
-import SearchBox from './Component/SearchBox';
+import OfferBtn from './Component/OfferBtn';
 
 function App() {
   return (
     <div className="App">
-     <SearchBox/>
+      <OfferBtn />
     </div>
   );
 }
